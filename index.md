@@ -111,6 +111,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Fatoumata Bah** (University of Ottawa)
 - **Toby Bartels** (Southeast [Nebraska] Community College)
 - **Anna Barth** (Cornell University)
+- **Marion Bartl** (University College Dublin)
 - **Nick Barts** (University of Pittsburgh)
 - **Adrian Bauer**
 - **Marisol N. Beck**
